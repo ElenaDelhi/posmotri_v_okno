@@ -127,6 +127,7 @@ ol {
 
 .content__video-card-description-container {
 	flex-grow: 1;
+	padding: 2px 2px 4px;
 }
 
 .content__video-card-thumbnail {
