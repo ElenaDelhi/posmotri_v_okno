@@ -107,6 +107,7 @@ ol {
 	inline-size: 711px;
 	block-size: 386px;
 	margin-block-end: 16px;
+	position: relative;
 }
 
 .result__video {
@@ -133,13 +134,6 @@ ol {
 	block-size: 103px;
 	object-fit: cover;
 	object-position: center;
-}
-
-.result__video-container {
-	position: relative;
-	inline-size: 711px;
-	block-size: 386px;
-	margin-block-end: 16px;
 }
 
 .search-form__fieldset-title {
